@@ -1,0 +1,47 @@
+.blueb {
+		background-color: #1694E0;
+		color: white;
+		border: none;
+		padding: 16px 32px;
+		text-align: center;
+		font-size: 16px;
+		cursor: pointer;
+	}
+
+.blueb:hover {
+	background-color: #0785D1;
+	color: #E2E2E2;
+}
+
+.backimage {
+  background-image: url("lines.jpg");
+  background-repeat: no-repeat;
+  background-size: 1200px;
+}
+
+table {
+	border-collapse: collapse;
+	width: 50%;
+	text-align: left;
+	font-style: "Courier New";
+}
+
+th, td {
+    text-align: left;
+	padding: 8px;
+}
+
+tr:first-child {
+    font-weight: bold;
+    color: white;
+    background: #1694E0;
+}
+
+tr:nth-child(even) {
+   	background-color: #EAE7E7;
+}
+
+body {
+color:black;
+background-color:white;
+}
