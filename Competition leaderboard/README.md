@@ -1,4 +1,3 @@
-(Note: les diagrammes ci-dessous ont été créés à partir de [LucidChart](https://lucid.app)
 
 ### ER Diagram
 
