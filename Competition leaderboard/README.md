@@ -1,25 +1,3 @@
-# projet-sylex_project
-
-| Name | Student Number | Email |
-| --- | --- | --- |
-| Sydroy Rakotonomenjanahary | 300041897 | srako102@uottawa.ca |
-| Zack Stempowicz | 300136018 | zstem023@uottawa.ca |
-| Alex Benimana | 8524206 | abeni011@uottawa.ca |
-
-
-
-## Livrable 1 (5%) Hello-World
-
-| Note | Description | Commentaire |
-| --- | --- | --- |
-| 2.0 | Configuration du repo GitHub | [GitHub Repo](https://github.com/professor-forward/projet-sylex_project) |
-| 2.5 | Modèle ER | Voir ci-dessous |
-| 2.5 | Modèle relationnel / schéma SQL | Les images et SQL ci-dessous |
-| 1.0 | Exemples SQL pour insérer, mettre à jour, sélectionner et supprimer des données | Voir les exemples ci-dessous|
-| 1.0 | README.md contient toutes les informations requises | Voir _cette_ page |
-| 1.0 | Utilisation de git (messages de commit, tous les étudiants impliqués) | Voir [les commits dans GitHub](https://github.com/professor-forward/projet-sylex_project/commits/main?before=15521741dd2bc59deccf698f92d8e57cf3c1af52+35&branch=main&path%5B%5D=README.md) |
-| / 10 | |
-
 (Note: les diagrammes ci-dessous ont été créés à partir de [LucidChart](https://lucid.app)
 
 ### ER Diagram
@@ -103,17 +81,6 @@ La sortie de DELETE devrait être
 |  3 | Titi | f |
 
 
-## Livrable 2 (5%) Application + DB
-
-| Note | Description | Commentaire |
-| --- | --- | --- |
-| 3.0 | Modèle ER | Voir ci-dessous |
-| 3.0 | Modèle relationnel / schéma SQL | Les images et SQL ci-dessous |
-| 1.0 | Application (READ-ONLY) | |
-| 1.0 | SQL "seed" / exemples pour INSERT, UPDATE, SELECT, DELETE des données | Voir _cette_ page |
-| 1.0 | README.md contient toutes les informations requises | Voir _cette_ page |
-| 1.0 | Utilisation de git (messages de commit, tous les étudiants impliqués) | Voir [les commits dans GitHub](https://github.com/professor-forward/projet-sylex_project/commits/livrable2) |
-| / 10 | |
 
 ### ER Model
 
@@ -196,17 +163,6 @@ Dans le fichier application, `PGSQLconnect.php` permet la connection entre le co
 
 #### Affichage de la liste des compétition.
 ![CompetitionTable](https://github.com/professor-forward/projet-sylex_project/blob/livrable2/application/displayCompetitionsTable.png)
-
-## Livrable 3 (12%) L'application
-| Note | Description | Commentaire |
-| --- | --- | --- |
-| 2.0 | Modèle ER | Voir ci-dessous |
-| 2.0 | Modèle relationnel / schéma SQL | Les images et SQL ci-dessous |
-| 2.0 | SQL "seed" / exemples/ migrations | |
-| 2.0 |  Application |  |
-| 1.0 | README.md contient toutes les informations requises | Voir _cette_ page |
-| 1.0 | Utilisation de git (messages de commit, tous les étudiants impliqués) | Voir [les commits dans GitHub](https://github.com/professor-forward/projet-sylex_project/commits/livrable3) |
-| / 10 | |
 
 ### Modèle ER
 
